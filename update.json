@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.BETA.INSIDERPREVIEW2",
-  "release_date": "2026-02-02",
-  "changelog": "Corrección de errores y mejoras en la interfaz.",
-  "download_url": ""
+  "latest_version": "beta.1.1",
+  "release_date": "2026-02-03",
+  "changelog": "Mejoras en la interfaz y corrección de errores menores.",
+  "download_url": "https://kairox756.github.io/backup360-ota/Backup360_Installer.exe"
 }
